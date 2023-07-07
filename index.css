@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+h1{
+    background-color: aqua;
+    color: black;
+    border: 200px;
+    margin-bottom: 50px;
+}
+div{
+
+    background-color: bisque;
+}
