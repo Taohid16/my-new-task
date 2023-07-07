@@ -12,3 +12,8 @@ div{
 
     background-color: bisque;
 }
+ul{
+    padding: 60px;
+    background-color: blue;
+    justify-content: space-around;
+}
